@@ -1,0 +1,56 @@
+CP User Permission
+
+User
+	Add user
+ 		Email
+ 		First Name
+ 		Role Profile   select Channel Partner
+ 		click Save
+ 		after that put other details
+ 		
+		More Information > fill details
+		Settings Tab  > Change Password 
+					Set New Paasword
+
+
+Create Channel Partner
+
+Mohan_Impex > Channel Partner
+
+Add Channel Partner
+
+select newly created username
+click save
+
+Again Back User list
+select Newly created user
+ 	
+ 	Click Permissions
+ 	Under Persmissions, Select User Permission
+ 	Click Add user Permission
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+
+
